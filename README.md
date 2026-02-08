@@ -35,6 +35,8 @@ This project explores a survey of data professionals to understand job roles, sa
 
 ### Key Insights
 - Data Scientists report higher average salaries compared to other roles
+  Created by Adhityan Sunderesan
+
 - Python is the most commonly used programming language
 - A large portion of respondents is based in the United States
 - Many professionals report moderate difficulty entering the data field
