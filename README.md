@@ -1,6 +1,15 @@
 # powerbi-data-professional-survey
 Power BI dashboard analyzing data from a professional survey.
 ## Power BI Data Professional Survey Dashboard
+## Dashboard Preview
+
+### Overview
+![Dashboard Overview 1](dashboard_overview_1.png)
+![Dashboard Overview 2](dashboard_overview_2.png)
+
+### Key Insights
+![Key Insights](key_insights.png)
+
 
 ### Project Overview
 This project explores a survey of data professionals to understand job roles, salary trends, preferred programming languages, and work satisfaction.
